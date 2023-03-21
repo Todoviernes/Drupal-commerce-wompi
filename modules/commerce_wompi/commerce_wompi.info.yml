@@ -1,0 +1,13 @@
+name: 'Commerce Wompi'
+type: module
+description: 'Commerce Wompi checkout process.'
+package: Commerce (contrib)
+core_version_requirement: ^9.5 || ^10
+dependencies:
+  - commerce:commerce
+  - commerce:commerce_payment
+
+# Information added by Drupal.org packaging script on 2023-02-03
+version: '1.0.x-dev'
+project: 'commerce_wompi'
+datestamp: 1675451246
